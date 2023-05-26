@@ -1,0 +1,12 @@
+{
+  "name": "jogopoo",
+  "version": "1.0.0",
+  "description": "Jogo POO",
+  "main": "elect.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius, Hans, Herbert Richards",
+  "license": "ISC"
+}
